@@ -1,0 +1,29 @@
+session_id,timestamp,role,content
+text-user,2025-07-16 12:30:16,user,explain me transport details
+text-user,2025-07-16 12:30:16,assistant,"Sorry, the system could not classify your query."
+text-user,2025-07-16 12:30:37,user,transport details
+text-user,2025-07-16 12:30:37,assistant,"Sorry, the system could not classify your query."
+text-user,2025-07-16 12:36:35,user,explain college details
+text-user,2025-07-16 12:36:35,assistant,"Sorry, the system could not classify your query."
+text-user,2025-07-16 12:42:06,user,where is vivekananda college
+text-user,2025-07-16 12:42:06,assistant,"Vivekanandha College of Engineering for Women is located at Elayampalayam, Tiruchengode, Namakkal District of Tamil Nadu, while Vivekanandha College of Education for Women is situated at Tiruchengode Campus."
+text-user,2025-07-16 14:10:06,user,tell me hostel details
+text-user,2025-07-16 14:10:06,assistant,"The hostels are designed to accommodate over 10,000 students, providing a comfortable and conducive environment for their studies. They are equipped with modern amenities and facilities, including:
+
+- A common room with television and reading areas.
+- Indoor games such as chess and table tennis.
+- Dry cleaning services.
+- Uninterrupted power supply and telephone facilities.
+- A mess that meets international standards, featuring modern kitchen equipment like dishwashers, cold rooms, and various boilers. The food is served in a hygienic manner, with separate menus catering to students from different states and special provisions for sick students as per medical advice.
+
+Additionally, there are separate hostels for students from various disciplines, ensuring that all needs are met efficiently."
+text-user,2025-07-16 14:11:09,user,tell me chairman name
+text-user,2025-07-16 14:11:09,assistant,Professor Dr. M. Karunanithi
+text-user,2025-07-16 14:42:21,user,tell the office phone number
+text-user,2025-07-16 14:42:21,assistant,The office phone number is not provided in the available information.
+text-user,2025-07-16 14:42:33,user,tell chairman phone number
+text-user,2025-07-16 14:42:33,assistant,The chairman's phone number is not provided in the information available.
+text-user,2025-07-16 14:42:59,user,what is fees for be civil
+text-user,2025-07-16 14:42:59,assistant,"The provided information does not specify the fees for the B.E. Civil Engineering program. For details regarding fees, it is advisable to contact the institution directly or visit their official website."
+text-user,2025-07-16 14:43:27,user,tell the course structure of be civil
+text-user,2025-07-16 14:43:27,assistant,"The course structure for the B.E. Civil Engineering program typically includes a comprehensive curriculum that covers various aspects of civil engineering. This may involve subjects such as structural engineering, geotechnical engineering, transportation engineering, environmental engineering, and construction management. Students are likely to engage in project-based learning, practical workshops, and field visits to enhance their understanding and skills. The program aims to equip students with the necessary knowledge and competencies to address real-world engineering challenges effectively."
